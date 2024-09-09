@@ -437,7 +437,11 @@ p {
   margin-bottom: 10px;
 }
 .wrapper .main-wrapper {
-  padding: 60px;
+  padding-top: 60px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+
   min-width: 400px;
 }
 .wrapper .main-wrapper .experiences-section .job-info {
@@ -455,6 +459,7 @@ p {
 }
 .wrapper .main-wrapper .experiences-section .details {
   margin-top: 10px;
+  text-align: justify;
 }
 .wrapper .main-wrapper .project-title {
   display: block;
